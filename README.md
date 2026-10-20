@@ -17,7 +17,7 @@ Java must be installed.
 
 1. Select **Code → Download ZIP** and extract the downloaded folder.
 2. Open `MIPSArcade.jar`. If double-clicking does not launch it, open a terminal in the extracted folder and run:
-3. 3. In MARS, select **File → Open** and open `games.asm`.
+3. In MARS, select **File → Open** and open `games.asm`.
 4. Enable extended/pseudo instructions, disable delayed branching, and set the run-speed slider to **unlimited**.
 5. Select **Run → Assemble**.
 6. Open **Tools → Arcade Display and Input**, then click **Connect to MIPS**.
